@@ -1,0 +1,8 @@
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/(app)/page": "app/(app)/page.js",
+  "/(auth)/sign-in/[[...sign-in]]/page": "app/(auth)/sign-in/[[...sign-in]]/page.js",
+  "/(app)/facebook-group-search/page": "app/(app)/facebook-group-search/page.js",
+  "/(app)/profile/[id]/page": "app/(app)/profile/[id]/page.js",
+  "/(app)/carbon-game/page": "app/(app)/carbon-game/page.js"
+}

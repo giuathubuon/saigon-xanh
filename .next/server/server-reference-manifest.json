@@ -1,0 +1,266 @@
+{
+  "node": {
+    "1d0a561ed72bd38543b758816363dbf72468bac2": {
+      "workers": {
+        "app/(app)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fpost.js%22%2C%5B%22createPost%22%2C%22createTrends%22%2C%22addComment%22%2C%22getPopularTrends%22%2C%22deletePost%22%2C%22updatePostLike%22%2C%22getPosts%22%2C%22getMyPostsFeed%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/profile/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fpost.js%22%2C%5B%22updatePostLike%22%2C%22addComment%22%2C%22createPost%22%2C%22createTrends%22%2C%22getPosts%22%2C%22getPopularTrends%22%2C%22getMyPostsFeed%22%2C%22deletePost%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(app)/page": "rsc",
+        "app/(app)/profile/[id]/page": "action-browser"
+      }
+    },
+    "12711401792cd3656d0fbbf0f0a5dbc766bb6f00": {
+      "workers": {
+        "app/(app)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fpost.js%22%2C%5B%22createPost%22%2C%22createTrends%22%2C%22addComment%22%2C%22getPopularTrends%22%2C%22deletePost%22%2C%22updatePostLike%22%2C%22getPosts%22%2C%22getMyPostsFeed%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/profile/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fpost.js%22%2C%5B%22updatePostLike%22%2C%22addComment%22%2C%22createPost%22%2C%22createTrends%22%2C%22getPosts%22%2C%22getPopularTrends%22%2C%22getMyPostsFeed%22%2C%22deletePost%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(app)/page": "rsc",
+        "app/(app)/profile/[id]/page": "action-browser"
+      }
+    },
+    "2a64a0d6343eb18620a0156e3e635e7fd0b9975b": {
+      "workers": {
+        "app/(app)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fpost.js%22%2C%5B%22createPost%22%2C%22createTrends%22%2C%22addComment%22%2C%22getPopularTrends%22%2C%22deletePost%22%2C%22updatePostLike%22%2C%22getPosts%22%2C%22getMyPostsFeed%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/profile/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fpost.js%22%2C%5B%22updatePostLike%22%2C%22addComment%22%2C%22createPost%22%2C%22createTrends%22%2C%22getPosts%22%2C%22getPopularTrends%22%2C%22getMyPostsFeed%22%2C%22deletePost%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(app)/page": "rsc",
+        "app/(app)/profile/[id]/page": "action-browser"
+      }
+    },
+    "baf1bf7f825ffeb4bf64531dd549378f7bcb214e": {
+      "workers": {
+        "app/(app)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fpost.js%22%2C%5B%22createPost%22%2C%22createTrends%22%2C%22addComment%22%2C%22getPopularTrends%22%2C%22deletePost%22%2C%22updatePostLike%22%2C%22getPosts%22%2C%22getMyPostsFeed%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/profile/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fpost.js%22%2C%5B%22updatePostLike%22%2C%22addComment%22%2C%22createPost%22%2C%22createTrends%22%2C%22getPosts%22%2C%22getPopularTrends%22%2C%22getMyPostsFeed%22%2C%22deletePost%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(app)/page": "rsc",
+        "app/(app)/profile/[id]/page": "action-browser"
+      }
+    },
+    "ce78cadff77020d4dfdf9886d16b2b24a77a213f": {
+      "workers": {
+        "app/(app)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fpost.js%22%2C%5B%22createPost%22%2C%22createTrends%22%2C%22addComment%22%2C%22getPopularTrends%22%2C%22deletePost%22%2C%22updatePostLike%22%2C%22getPosts%22%2C%22getMyPostsFeed%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/profile/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fpost.js%22%2C%5B%22updatePostLike%22%2C%22addComment%22%2C%22createPost%22%2C%22createTrends%22%2C%22getPosts%22%2C%22getPopularTrends%22%2C%22getMyPostsFeed%22%2C%22deletePost%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(app)/page": "rsc",
+        "app/(app)/profile/[id]/page": "action-browser"
+      }
+    },
+    "0240d3fa0bec5ea86b64d4de6029dd07961a8197": {
+      "workers": {
+        "app/(app)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fpost.js%22%2C%5B%22createPost%22%2C%22createTrends%22%2C%22addComment%22%2C%22getPopularTrends%22%2C%22deletePost%22%2C%22updatePostLike%22%2C%22getPosts%22%2C%22getMyPostsFeed%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/profile/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fpost.js%22%2C%5B%22updatePostLike%22%2C%22addComment%22%2C%22createPost%22%2C%22createTrends%22%2C%22getPosts%22%2C%22getPopularTrends%22%2C%22getMyPostsFeed%22%2C%22deletePost%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(app)/page": "rsc",
+        "app/(app)/profile/[id]/page": "action-browser"
+      }
+    },
+    "b0ad80b5bb78d1d2d7cfe82ec6843b9505341c51": {
+      "workers": {
+        "app/(app)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fpost.js%22%2C%5B%22createPost%22%2C%22createTrends%22%2C%22addComment%22%2C%22getPopularTrends%22%2C%22deletePost%22%2C%22updatePostLike%22%2C%22getPosts%22%2C%22getMyPostsFeed%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/profile/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fpost.js%22%2C%5B%22updatePostLike%22%2C%22addComment%22%2C%22createPost%22%2C%22createTrends%22%2C%22getPosts%22%2C%22getPopularTrends%22%2C%22getMyPostsFeed%22%2C%22deletePost%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(app)/page": "rsc",
+        "app/(app)/profile/[id]/page": "action-browser"
+      }
+    },
+    "8877f6f54a69afd4e1f377600406e8d24e5da5a7": {
+      "workers": {
+        "app/(app)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fpost.js%22%2C%5B%22createPost%22%2C%22createTrends%22%2C%22addComment%22%2C%22getPopularTrends%22%2C%22deletePost%22%2C%22updatePostLike%22%2C%22getPosts%22%2C%22getMyPostsFeed%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/profile/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fpost.js%22%2C%5B%22updatePostLike%22%2C%22addComment%22%2C%22createPost%22%2C%22createTrends%22%2C%22getPosts%22%2C%22getPopularTrends%22%2C%22getMyPostsFeed%22%2C%22deletePost%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(app)/page": "rsc",
+        "app/(app)/profile/[id]/page": "action-browser"
+      }
+    },
+    "704d9148c9806aed35eeddccb84160773361f658": {
+      "workers": {
+        "app/(app)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fpost.js%22%2C%5B%22createPost%22%2C%22createTrends%22%2C%22addComment%22%2C%22getPopularTrends%22%2C%22deletePost%22%2C%22updatePostLike%22%2C%22getPosts%22%2C%22getMyPostsFeed%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/air-quality/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/weather/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/facebook-group-search/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/profile/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/carbon-game/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(app)/page": "rsc",
+        "app/(app)/air-quality/page": "rsc",
+        "app/(app)/weather/page": "rsc",
+        "app/(app)/facebook-group-search/page": "rsc",
+        "app/(app)/profile/[id]/page": "rsc",
+        "app/(app)/carbon-game/page": "rsc"
+      }
+    },
+    "004373c667d1e2d38cc09fd22623abdb48f08e66": {
+      "workers": {
+        "app/(app)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fpost.js%22%2C%5B%22createPost%22%2C%22createTrends%22%2C%22addComment%22%2C%22getPopularTrends%22%2C%22deletePost%22%2C%22updatePostLike%22%2C%22getPosts%22%2C%22getMyPostsFeed%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/air-quality/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/weather/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/facebook-group-search/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/profile/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/carbon-game/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(app)/page": "rsc",
+        "app/(app)/air-quality/page": "rsc",
+        "app/(app)/weather/page": "rsc",
+        "app/(app)/facebook-group-search/page": "rsc",
+        "app/(app)/profile/[id]/page": "rsc",
+        "app/(app)/carbon-game/page": "rsc"
+      }
+    },
+    "6e96005261bbb27000f21367b50ccf5c3032f9d9": {
+      "workers": {
+        "app/(app)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fpost.js%22%2C%5B%22createPost%22%2C%22createTrends%22%2C%22addComment%22%2C%22getPopularTrends%22%2C%22deletePost%22%2C%22updatePostLike%22%2C%22getPosts%22%2C%22getMyPostsFeed%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/air-quality/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/weather/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/facebook-group-search/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/profile/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/carbon-game/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(app)/page": "rsc",
+        "app/(app)/air-quality/page": "rsc",
+        "app/(app)/weather/page": "rsc",
+        "app/(app)/facebook-group-search/page": "rsc",
+        "app/(app)/profile/[id]/page": "rsc",
+        "app/(app)/carbon-game/page": "rsc"
+      }
+    },
+    "49439d33f782bf8762f3da8cd5fc421b73119e88": {
+      "workers": {
+        "app/(app)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fpost.js%22%2C%5B%22createPost%22%2C%22createTrends%22%2C%22addComment%22%2C%22getPopularTrends%22%2C%22deletePost%22%2C%22updatePostLike%22%2C%22getPosts%22%2C%22getMyPostsFeed%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/air-quality/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/weather/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/facebook-group-search/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/profile/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/carbon-game/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(app)/page": "rsc",
+        "app/(app)/air-quality/page": "rsc",
+        "app/(app)/weather/page": "rsc",
+        "app/(app)/facebook-group-search/page": "rsc",
+        "app/(app)/profile/[id]/page": "rsc",
+        "app/(app)/carbon-game/page": "rsc"
+      }
+    },
+    "ce730395cfcaa0c8c979062331dbdb139a8471b5": {
+      "workers": {
+        "app/(app)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fpost.js%22%2C%5B%22createPost%22%2C%22createTrends%22%2C%22addComment%22%2C%22getPopularTrends%22%2C%22deletePost%22%2C%22updatePostLike%22%2C%22getPosts%22%2C%22getMyPostsFeed%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/air-quality/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/weather/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/facebook-group-search/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/profile/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/carbon-game/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(app)/page": "rsc",
+        "app/(app)/air-quality/page": "rsc",
+        "app/(app)/weather/page": "rsc",
+        "app/(app)/facebook-group-search/page": "rsc",
+        "app/(app)/profile/[id]/page": "rsc",
+        "app/(app)/carbon-game/page": "rsc"
+      }
+    },
+    "e7727ae108cd6b48ad47337d3aeb79a61f48d7af": {
+      "workers": {
+        "app/(app)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fpost.js%22%2C%5B%22createPost%22%2C%22createTrends%22%2C%22addComment%22%2C%22getPopularTrends%22%2C%22deletePost%22%2C%22updatePostLike%22%2C%22getPosts%22%2C%22getMyPostsFeed%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/air-quality/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/weather/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/facebook-group-search/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/profile/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/carbon-game/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(app)/page": "rsc",
+        "app/(app)/air-quality/page": "rsc",
+        "app/(app)/weather/page": "rsc",
+        "app/(app)/facebook-group-search/page": "rsc",
+        "app/(app)/profile/[id]/page": "rsc",
+        "app/(app)/carbon-game/page": "rsc"
+      }
+    },
+    "167486753081e764a3583854104c00b39811bf8b": {
+      "workers": {
+        "app/(app)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fpost.js%22%2C%5B%22createPost%22%2C%22createTrends%22%2C%22addComment%22%2C%22getPopularTrends%22%2C%22deletePost%22%2C%22updatePostLike%22%2C%22getPosts%22%2C%22getMyPostsFeed%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/air-quality/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/weather/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/facebook-group-search/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/profile/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/carbon-game/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(app)/page": "rsc",
+        "app/(app)/air-quality/page": "rsc",
+        "app/(app)/weather/page": "rsc",
+        "app/(app)/facebook-group-search/page": "rsc",
+        "app/(app)/profile/[id]/page": "rsc",
+        "app/(app)/carbon-game/page": "rsc"
+      }
+    },
+    "7b924cc76cd8dd31515098710ef74916fb9cc90e": {
+      "workers": {
+        "app/(app)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fpost.js%22%2C%5B%22createPost%22%2C%22createTrends%22%2C%22addComment%22%2C%22getPopularTrends%22%2C%22deletePost%22%2C%22updatePostLike%22%2C%22getPosts%22%2C%22getMyPostsFeed%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/air-quality/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/weather/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/facebook-group-search/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/profile/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/carbon-game/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(app)/page": "rsc",
+        "app/(app)/air-quality/page": "rsc",
+        "app/(app)/weather/page": "rsc",
+        "app/(app)/facebook-group-search/page": "rsc",
+        "app/(app)/profile/[id]/page": "rsc",
+        "app/(app)/carbon-game/page": "rsc"
+      }
+    },
+    "84193bd85c3da92b5fda19376fa7c92505001c45": {
+      "workers": {
+        "app/(app)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fpost.js%22%2C%5B%22createPost%22%2C%22createTrends%22%2C%22addComment%22%2C%22getPopularTrends%22%2C%22deletePost%22%2C%22updatePostLike%22%2C%22getPosts%22%2C%22getMyPostsFeed%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/air-quality/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/weather/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/facebook-group-search/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/profile/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/carbon-game/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(app)/page": "rsc",
+        "app/(app)/air-quality/page": "rsc",
+        "app/(app)/weather/page": "rsc",
+        "app/(app)/facebook-group-search/page": "rsc",
+        "app/(app)/profile/[id]/page": "rsc",
+        "app/(app)/carbon-game/page": "rsc"
+      }
+    },
+    "97723ca3d5c492de49703b842a84e114d1b403f1": {
+      "workers": {
+        "app/(app)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fpost.js%22%2C%5B%22createPost%22%2C%22createTrends%22%2C%22addComment%22%2C%22getPopularTrends%22%2C%22deletePost%22%2C%22updatePostLike%22%2C%22getPosts%22%2C%22getMyPostsFeed%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/air-quality/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/weather/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/facebook-group-search/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/profile/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!",
+        "app/(app)/carbon-game/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2Fuser.js%22%2C%5B%22getAllFollowersAndFollowings%22%2C%22createUser%22%2C%22getFollowSuggestions%22%2C%22deleteUser%22%2C%22updateUser%22%2C%22getUser%22%2C%22updateBanner%22%2C%22updateFollow%22%5D%5D%2C%5B%22%2Fhome%2Fiamnguyen%2FDesktop%2Fnet4%2Factions%2FuploadFile.js%22%2C%5B%22deleteFile%22%2C%22uploadFile%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(app)/page": "rsc",
+        "app/(app)/air-quality/page": "rsc",
+        "app/(app)/weather/page": "rsc",
+        "app/(app)/facebook-group-search/page": "rsc",
+        "app/(app)/profile/[id]/page": "rsc",
+        "app/(app)/carbon-game/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "D20jT7H06+U44FYkDedq+rVmH4Zrua2DiKLHvWTWyGc="
+}
